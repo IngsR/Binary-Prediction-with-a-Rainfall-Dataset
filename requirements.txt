@@ -1,0 +1,20 @@
+# Core Libraries
+numpy==1.24.4
+pandas==1.5.3
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Scikit-Learn & Statistik
+scikit-learn==1.2.2
+
+# Imbalanced Learn
+imbalanced-learn==0.10.1
+
+# XGBoost
+xgboost==1.7.6
+
+# TensorFlow untuk Deep Learning
+tensorflow==2.12.0
+
+# Untuk kompatibilitas umum
+joblib==1.2.0
