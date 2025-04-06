@@ -80,6 +80,11 @@ git clone https://github.com/IngsR/Binary-Prediction-with-a-Rainfall-Dataset.git
 ```
 
 ```bash
+cd Binary-Prediction-with-a-Rainfall-Dataset
+```
+
+
+```bash
 python -m venv env
 source env/bin/activate     # Untuk Linux/Mac
 env\Scripts\activate        # Untuk Windows
