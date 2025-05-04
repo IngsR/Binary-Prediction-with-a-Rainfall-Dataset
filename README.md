@@ -27,7 +27,7 @@ Proyek ini dimulai dengan melakukan **Exploratory Data Analysis (EDA)** untuk me
 
 - **Feature Engineering**: Menciptakan fitur-fitur baru seperti selisih suhu, encoding musiman, dan fitur temporal lainnya.
 - **Preprocessing**: Meliputi normalisasi, penanganan missing values, dan penyeimbangan kelas menggunakan SMOTE.
-- **Modeling**: Menggunakan tiga pendekatan berbeda — Random Forest, XGBoost, dan LSTM — untuk mengevaluasi performa terbaik dalam konteks data tabular dan time-series.
+- **Modeling**: Menggunakan tiga pendekatan berbeda — Random Forest, XGBoost, dan LSTM untuk mengevaluasi performa terbaik dalam konteks data tabular dan time-series.
 
 Evaluasi model dilakukan dengan kombinasi stratified k-fold dan time-series split untuk memastikan generalisasi yang baik terhadap data yang belum terlihat.
 
