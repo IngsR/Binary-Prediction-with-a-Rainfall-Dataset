@@ -108,7 +108,7 @@ pip install -r requirements.txt
 
 ---
 
-## 👨‍💻 Author Ikhwan Ramadhan | [IngsR](https://github.com/IngsR) , 2025
+## 👨‍💻 Author [IngsR](https://github.com/IngsR) Ikhwan Ramadhan, 2025
 
 </div>
 
