@@ -104,6 +104,14 @@ pip install -r requirements.txt
 ```
 ---
 
+<div align="center">
+
+---
+
+## 👨‍💻 Author Ikhwan Ramadhan | IngsR (https://github.com/IngsR), 2025
+
+</div>
+
    
 
 
