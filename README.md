@@ -10,7 +10,7 @@
 1. Nama Kompetisi: Playground Series - Season 5, Episode 3     
 2. Platform: Kaggle        
 3. Tugas: Klasifikasi biner Apakah akan hujan atau tidak?     
-4. Metrik Evaluasi: ROC-AUC Score ads
+4. Metrik Evaluasi: ROC-AUC Score 
 
 ---
 ## 📌 Deskripsi Proyek
